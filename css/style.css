@@ -1,0 +1,45 @@
+table tr.active {
+	background: #202440;
+}
+
+.tdcolor{
+	bgcolor:#A8A1A5;
+}
+
+.schedule{
+	width: 100%;
+	text-align: center;
+}
+
+.cell{
+	height: 25px;
+}
+
+#professor{
+	margin-left:auto;
+	margin-right:auto;
+	width:90%;
+}
+
+#scheduler{
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
+
+#sysadmin{
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
+
+
+#wrapperButt{
+	margin:0 auto;
+	width: 50%;
+}
+
+#createFirst{
+	width:300px;
+}
+

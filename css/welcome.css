@@ -1,0 +1,20 @@
+#welcomediv{
+	width: 70%;
+	length: auto;
+}
+
+.img-circle{
+	border-radius:50%;
+}
+
+.hidden{
+	display: none;
+}
+
+.unhidden{
+	display: block;
+}
+
+.btn .btn-danger {
+	margin-bottom: 30px;
+}
